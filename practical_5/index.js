@@ -12,6 +12,7 @@ const FILE_TYPES = {
 const rl = readline.createInterface({
     input: process.stdin,
     output: process.stdout
+    
 });
 
 // Create category folders
